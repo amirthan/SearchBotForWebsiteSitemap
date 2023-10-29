@@ -1,0 +1,9 @@
+langchain
+pinecone-client
+openai
+tiktoken
+nest_asyncio
+Flask-SQLAlchemy
+lxml
+beautifulsoup4
+sentence-transformers
