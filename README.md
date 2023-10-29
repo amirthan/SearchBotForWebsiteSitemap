@@ -20,15 +20,15 @@ These instructions will help you set up the project on your local machine for de
 
 1. Clone the GitHub repository to your local machine:
 
-   git clone <repository-url>
+   git clone \<repository-url\>
 
 2. Navigate to the project directory:
 
-   cd <repository-directory>
+   cd \<repository-directory\>
 
 3. Install the required Python libraries:
 
-   pip install streamlit pinecone-langchain sentence-transformers requests asyncio
+   pip install -r requirements.txt
 
 ## Usage
 
